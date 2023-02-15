@@ -1,0 +1,11 @@
+/node_modules
+/yarn-error.log
+/.idea/php.xml
+/coverage/
+/.idea/
+/test.env
+/build
+/build.zip
+/dev/
+/*.code-workspace
+/.env
